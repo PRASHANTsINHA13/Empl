@@ -1,0 +1,6 @@
+customhost = "web-instance-pj.cjqobgyavbhx.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Prashant"
+customdb = "employee"
+custombucket = "web-instance"
+customregion = "us-east-1"
