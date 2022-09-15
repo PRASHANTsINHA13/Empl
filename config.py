@@ -1,4 +1,4 @@
-customhost = "web-instance-pj.cjqobgyavbhx.us-east-1.rds.amazonaws.com"
+customhost = "web-instance.cjqobgyavbhx.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "Prashant"
 customdb = "employee"
